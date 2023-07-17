@@ -41,7 +41,7 @@ Input Image:
 ![Input Image](Ritvik.JPG)
 
 Extracted Faces:
-![Face 1]([Face 2.png](Face2.png))
+![Face].(Face 2.png)
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
