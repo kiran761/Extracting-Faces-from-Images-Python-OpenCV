@@ -41,7 +41,7 @@ Input Image:
 ![Input Image](Ritvik.JPG)
 
 Extracted Faces:
-![Face 1]([Face 2.png](https://github.com/kiran761/Extracting-Faces-from-Images-Python-OpenCV/blob/eb7cee8695d0021945099dee7262055f1f4dbf9d/Face%202.png))
+![Face 1]([Face 2.png](Face2.png))
 
 ### Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvement, feel free to open an issue or submit a pull request.
